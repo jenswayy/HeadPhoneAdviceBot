@@ -1,2 +1,2 @@
-# HeadPhoneAdviceBot
-Official repo for r/headphoneadvice
+# TheQuestMaster
+The QuestMaster bot for r/redditsquests (under development)
