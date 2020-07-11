@@ -13,7 +13,7 @@ reddit = praw.Reddit(client_id=client_id,
                      client_secret=client_secret,
                      password=password,
                      user_agent='r/RedditsQuests bot',
-                     username='TheQuestMaster') #! fix this
+                     username='MasterOfHeadphones') #! fix this
 
 moderators = list(reddit.subreddit(sub).moderator())
 for submission in reddit.subreddit(sub).new(limit=None):
