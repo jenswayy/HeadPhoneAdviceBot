@@ -11,7 +11,7 @@ password = os.environ.get('pass')
 reddit = praw.Reddit(client_id=client_id,
                      client_secret=client_secret,
                      password=password,
-                     user_agent='r/RedditsQuests bot',
+                     user_agent='r/HeadphoneAdvice bot',
                      username='MasterOfHeadphones')
 
 for flair in reddit.subreddit(sub).flair(limit=None):
