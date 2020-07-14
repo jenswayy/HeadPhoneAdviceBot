@@ -1,2 +1,3 @@
-# TheQuestMaster
-The QuestMaster bot for r/redditsquests (under development)
+# HeadPhoneAdviceBot
+
+Official bot for r/HeadPhoneAdvice
